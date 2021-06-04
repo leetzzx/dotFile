@@ -1,0 +1,6 @@
+;; -*- emacs-lisp -*- <21/05/30 23:48:27 /home/leetz/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+(((tramp-file-name "sudo" "root" nil "leetz-VLT-WX0" nil nil nil)
+  nil))
